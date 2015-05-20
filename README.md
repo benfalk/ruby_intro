@@ -97,6 +97,7 @@ files in your project.  Some popular cross-platform ones to list off:
   * [Sublime](http://www.sublimetext.com/)
   * [RubyMine](https://www.jetbrains.com/ruby/)
   * [Komodo Edit](http://komodoide.com/komodo-edit/)
+  * [Atom](https://atom.io/)
   * [Vim](http://www.vim.org/)
   * [Emacs](http://www.gnu.org/software/emacs/)
 
